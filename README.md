@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 BSc Computer Science student
 - 💻 Interested in coding
-- 🌱 Currently learning basic HTML, CSS, and Java
+
 
 ## Skills
 - HTML
